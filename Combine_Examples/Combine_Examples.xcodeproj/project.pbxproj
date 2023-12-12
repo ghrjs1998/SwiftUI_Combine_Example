@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		4E7EDD222B28967F00C2732B /* Publisher & Subscriber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Publisher & Subscriber.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7EDD232B289CBE00C2732B /* Subject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7EDD242B289EC700C2732B /* Published.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Published.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7EDD252B28A25900C2732B /* Subscription.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subscription.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7EDD262B28A4E000C2732B /* Foundation and Combine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Foundation and Combine.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		4E7EDD1B2B28965500C2732B = {
+			isa = PBXGroup;
+			children = (
+				4E7EDD262B28A4E000C2732B /* Foundation and Combine.playground */,
+				4E7EDD252B28A25900C2732B /* Subscription.playground */,
+				4E7EDD222B28967F00C2732B /* Publisher & Subscriber.playground */,
+				4E7EDD232B289CBE00C2732B /* Subject.playground */,
+				4E7EDD242B289EC700C2732B /* Published.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		4E7EDD1C2B28965500C2732B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 4E7EDD1F2B28965500C2732B /* Build configuration list for PBXProject "Combine_Examples" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4E7EDD1B2B28965500C2732B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		4E7EDD202B28965500C2732B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		4E7EDD212B28965500C2732B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4E7EDD1F2B28965500C2732B /* Build configuration list for PBXProject "Combine_Examples" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E7EDD202B28965500C2732B /* Debug */,
+				4E7EDD212B28965500C2732B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4E7EDD1C2B28965500C2732B /* Project object */;
+}
