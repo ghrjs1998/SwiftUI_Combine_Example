@@ -12,12 +12,20 @@
 		4E7EDD242B289EC700C2732B /* Published.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Published.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4E7EDD252B28A25900C2732B /* Subscription.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subscription.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4E7EDD262B28A4E000C2732B /* Foundation and Combine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Foundation and Combine.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7EDD272B28A8B500C2732B /* Scheduler.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Scheduler.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7EDD282B28AA7F00C2732B /* Operator - map & filter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Operator - map & filter.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7EDD292B28ABE700C2732B /* Operator - combineLatest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Operator - combineLatest.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4E7EDD2A2B28ABFB00C2732B /* Operator - removeDup & compactMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Operator - removeDup & compactMap.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		4E7EDD1B2B28965500C2732B = {
 			isa = PBXGroup;
 			children = (
+				4E7EDD2A2B28ABFB00C2732B /* Operator - removeDup & compactMap.playground */,
+				4E7EDD292B28ABE700C2732B /* Operator - combineLatest.playground */,
+				4E7EDD282B28AA7F00C2732B /* Operator - map & filter.playground */,
+				4E7EDD272B28A8B500C2732B /* Scheduler.playground */,
 				4E7EDD262B28A4E000C2732B /* Foundation and Combine.playground */,
 				4E7EDD252B28A25900C2732B /* Subscription.playground */,
 				4E7EDD222B28967F00C2732B /* Publisher & Subscriber.playground */,
